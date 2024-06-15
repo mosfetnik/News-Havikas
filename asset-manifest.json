@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/News-Havikas/static/css/main.d810bff2.css",
-    "main.js": "/News-Havikas/static/js/main.4e039aa7.js",
+    "main.js": "/News-Havikas/static/js/main.a8d6f8bf.js",
     "static/media/nullImage.png": "/News-Havikas/static/media/nullImage.8973ad91ff3039f96c89.png",
     "index.html": "/News-Havikas/index.html",
     "static/media/ArrowIcon.svg": "/News-Havikas/static/media/ArrowIcon.bd3ce9874d003df297a3fdbbdba9d147.svg",
     "main.d810bff2.css.map": "/News-Havikas/static/css/main.d810bff2.css.map",
-    "main.4e039aa7.js.map": "/News-Havikas/static/js/main.4e039aa7.js.map"
+    "main.a8d6f8bf.js.map": "/News-Havikas/static/js/main.a8d6f8bf.js.map"
   },
   "entrypoints": [
     "static/css/main.d810bff2.css",
-    "static/js/main.4e039aa7.js"
+    "static/js/main.a8d6f8bf.js"
   ]
 }
