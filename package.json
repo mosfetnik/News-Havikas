@@ -1,5 +1,6 @@
 {
   "name": "newsapp",
+  "homepage": "https://mosfetnik.github.io /News-Havikas",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -23,7 +24,7 @@
     "styled-components": "^5.3.3",
     "uuid": "^8.3.2"
   },
-  "scripts": {
+   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
