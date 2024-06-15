@@ -9,7 +9,6 @@ import Search from "./components/Search/Search";
 function App() {
   return (
     <>
-    <BrowserRouter basename="/News-Havikas">
       <Router>
         <NavBar />
         <Routes>
@@ -30,7 +29,6 @@ function App() {
           <Route path="/search/:query" element={<Search />} />
         </Routes>
       </Router>
-      </BrowserRouter>
     </>
   );
 }
