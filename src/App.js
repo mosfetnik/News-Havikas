@@ -14,7 +14,7 @@ import Search from "./components/Search/Search";
 function App() {
   return (
     <>
-      <BrowserRouter basename="/">
+      <BrowserRouter basename="/News-Havikas">
 
           <NavBar />
           <Routes>
